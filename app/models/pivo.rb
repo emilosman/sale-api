@@ -1,0 +1,2 @@
+class Pivo < ApplicationRecord
+end
