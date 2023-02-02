@@ -1,5 +1,6 @@
 # Install
 - postgres
+- [rvm](https://rvm.io/)
 - ruby
 - bundler
 - docker
